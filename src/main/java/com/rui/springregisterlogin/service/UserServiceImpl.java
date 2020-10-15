@@ -3,7 +3,7 @@ package com.rui.springregisterlogin.service;
 import com.rui.springregisterlogin.model.Role;
 import com.rui.springregisterlogin.model.User;
 import com.rui.springregisterlogin.repository.UserRepository;
-import com.rui.springregisterlogin.web.dto.UserRegistrationDto;
+import com.rui.springregisterlogin.controller.dto.UserRegistrationDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

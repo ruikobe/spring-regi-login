@@ -1,7 +1,7 @@
-package com.rui.springregisterlogin.web;
+package com.rui.springregisterlogin.controller;
 
 import com.rui.springregisterlogin.service.UserService;
-import com.rui.springregisterlogin.web.dto.UserRegistrationDto;
+import com.rui.springregisterlogin.controller.dto.UserRegistrationDto;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

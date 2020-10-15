@@ -1,4 +1,4 @@
-package com.rui.springregisterlogin.web.dto;
+package com.rui.springregisterlogin.controller.dto;
 
 public class UserRegistrationDto {
     private String firstName;
